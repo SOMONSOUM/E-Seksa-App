@@ -1,0 +1,1 @@
+final String getCourse = 'GET_COURSES';

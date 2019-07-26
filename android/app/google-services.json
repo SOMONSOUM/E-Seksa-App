@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5579491845",
+    "firebase_url": "https://seksa-app.firebaseio.com",
+    "project_id": "seksa-app",
+    "storage_bucket": "seksa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5579491845:android:17a3ed4d9c4959b4",
+        "android_client_info": {
+          "package_name": "com.example.ios_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5579491845-q1ubeolrrtfstsrfjv9hggotb31en5j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFGPkOfRmGKc8sAGD_o3F96_afKKAKVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5579491845-q1ubeolrrtfstsrfjv9hggotb31en5j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
